@@ -3,5 +3,5 @@ version: '${project.version}'
 main: nl.abelkrijgtalles.society.Society
 api-version: '1.20'
 authors: [Abelpro678]
-description: The optimal plugin for your society in Minecraft
+description: The optimal plugin for your society in Minecraft.
 website: https://github.com/Abelkrijgtalles/society

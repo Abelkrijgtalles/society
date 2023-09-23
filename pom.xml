@@ -11,7 +11,7 @@
 
     <name>Society</name>
 
-    <description>The optimal plugin for your society in Minecraft</description>
+    <description>The optimal plugin for your society in Minecraft.</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
